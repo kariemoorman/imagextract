@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [Input Image File](#input)
+- [Input Image](#input-image)
 - [Results](#results)
   - [OCR](#ocr)
   - [Face Detection](#face-detection)
@@ -10,7 +10,7 @@
 
 ---
 
-## Input Image File
+## Input Image
 
 <img src="screenshot.png" alt="Twitch Screenshot" />
 
@@ -54,7 +54,7 @@ WAiTED
 
 (see [YOLO_ObjectClassificationResults.json](YOLO_ObjectClassificationResults.json))
 
-```
+```json
 [
   {
     "boundingBox" : [
