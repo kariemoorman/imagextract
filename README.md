@@ -6,7 +6,7 @@ A command-line application to extract text, objects, and faces from image files 
 
 ## Installation 
 
-Textra requires Mac OS version 13 or greater to access the latest VisionKit APIs.
+Imagextract requires Mac OS version 13 or greater to access the latest VisionKit APIs.
 
 The easiest way to install textra is to open a terminal window and run the following command:
 
