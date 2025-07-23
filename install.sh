@@ -67,9 +67,8 @@ fi
 download_uri="https://github.com/kariemoorman/imagextract/releases/download/0.1.0/imagextract-0.1.0.zip"
 
 install_env=IMAGEXTRACT_INSTALL
-
+bin_env=\$$install_env/bin
 install_dir=${!install_env:-$HOME/.imagextract}
-
 bin_dir=$install_dir/bin
 exe=$bin_dir/imagextract
 
