@@ -1,8 +1,8 @@
 ## imagextract
 
-A command-line application to extract text, objects, and faces from image files (JPG, PNG, TIFF, PNG) using Apple Vision and CoreML APIs.
+<p align='center'><img src="diagram.png" alt="diagram" /></p>  
 
-<img src="diagram.png" alt="diagram"  />
+A command-line application to extract text, objects, and faces from image files (JPG, PNG, TIFF, PNG) using Apple Vision and CoreML APIs.
 
 
 ## Installation 
