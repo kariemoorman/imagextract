@@ -119,7 +119,7 @@ func performOCR(on cgImage: CGImage, saveTo subdirPath: URL) {
 
 
 func createRESNETImageClassifier() -> VNCoreMLModel? {
-    let executableURL = URL(fileURLWithPath: CommandLine.arguments[0])
+    let executableURL = resolveExecutablePath()
     let executableDir = executableURL.deletingLastPathComponent()
     let modelURL = executableDir.appendingPathComponent("models/Resnet50.mlmodelc")
 
@@ -185,7 +185,7 @@ func saveRESNETClassificationResults(_ results: String, to directory: URL) {
 }
 
 func createYOLOImageClassifier() -> VNCoreMLModel? {
-    let executableURL = URL(fileURLWithPath: CommandLine.arguments[0])
+    let executableURL = resolveExecutablePath()
     let executableDir = executableURL.deletingLastPathComponent()
     let modelURL = executableDir.appendingPathComponent("models/yolov5m.mlmodelc")
 
@@ -452,6 +452,28 @@ func isValidExtension(for file: String, for allowedExtensions: Set<String>) -> B
     let fileURL = URL(fileURLWithPath: file)
     let fileExtension = fileURL.pathExtension.lowercased()
     return allowedExtensions.contains(".\(fileExtension)")
+}
+
+func resolveExecutablePath() -> URL {
+    let argv0 = CommandLine.arguments[0]
+    let fileManager = FileManager.default
+
+    if argv0.hasPrefix("/") {
+        return URL(fileURLWithPath: argv0)
+    } else if argv0.contains("/") {
+        let cwd = fileManager.currentDirectoryPath
+        return URL(fileURLWithPath: cwd).appendingPathComponent(argv0)
+    } else {
+        let envPath = ProcessInfo.processInfo.environment["PATH"] ?? ""
+        for dir in envPath.split(separator: ":") {
+            let fullPath = "\(dir)/\(argv0)"
+            if fileManager.isExecutableFile(atPath: fullPath) {
+                return URL(fileURLWithPath: fullPath)
+            }
+        }
+    }
+
+    fatalError("[ERROR] Could not resolve executable path.")
 }
 
 
