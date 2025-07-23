@@ -27,10 +27,10 @@ imagextract IMAGE_FILE
 ### Example
 
 ```
-imagextract screenshot.tiff
+imagextract screenshot.png
 ```
 
-
+Results: [imagextract: Proof of Concept](example/README.md)
 
 
 
