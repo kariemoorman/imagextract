@@ -1,4 +1,3 @@
-
 #!/usr/bin/env bash
 # Script adapted from Bun for use with imagextract: https://bun.sh/install
 set -euo pipefail
