@@ -67,15 +67,18 @@ fi
 download_uri="https://github.com/kariemoorman/imagextract/releases/download/0.1.0/imagextract-0.1.0.zip"
 
 install_env=IMAGEXTRACT_INSTALL
-bin_env=\$$install_env/bin
 
 install_dir=${!install_env:-$HOME/.imagextract}
+
 bin_dir=$install_dir/bin
 exe=$bin_dir/imagextract
 
 if [[ ! -d $bin_dir ]]; then
-    mkdir -p "$bin_dir" ||
-        error "Failed to create install directory \"$bin_dir\""
+    mkdir -p "$bin_dir" || error "Failed to create install directory \"$bin_dir\""
+fi
+
+if [[ -z "$download_uri" ]]; then
+    error "Download URI not set. Please set the download_uri variable."
 fi
 
 curl --fail --location --progress-bar --output "$exe.zip" "$download_uri" ||
