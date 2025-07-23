@@ -105,7 +105,6 @@ func performOCR(on cgImage: CGImage, saveTo subdirPath: URL) {
         }
         
         if !recognizedText.isEmpty {
-            print("[INFO] Text recognized: \(recognizedText)")
             saveRecognizedText(recognizedText, to: subdirPath)
         }
     }
@@ -120,8 +119,10 @@ func performOCR(on cgImage: CGImage, saveTo subdirPath: URL) {
 
 
 func createRESNETImageClassifier() -> VNCoreMLModel? {
+    let executableURL = URL(fileURLWithPath: CommandLine.arguments[0])
+    let executableDir = executableURL.deletingLastPathComponent()
+    let modelURL = executableDir.appendingPathComponent("models/Resnet50.mlmodelc")
 
-    let modelURL = URL(fileURLWithPath: "Resnet50.mlmodelc")
     guard let model = try? MLModel(contentsOf: modelURL) else {
     fatalError("Could not load the model.")
     }
@@ -184,8 +185,10 @@ func saveRESNETClassificationResults(_ results: String, to directory: URL) {
 }
 
 func createYOLOImageClassifier() -> VNCoreMLModel? {
-    
-    let modelURL = URL(fileURLWithPath: "yolov5m.mlmodelc")
+    let executableURL = URL(fileURLWithPath: CommandLine.arguments[0])
+    let executableDir = executableURL.deletingLastPathComponent()
+    let modelURL = executableDir.appendingPathComponent("models/yolov5m.mlmodelc")
+
     guard let model = try? MLModel(contentsOf: modelURL) else {
     fatalError("Could not load the model.")
     }
