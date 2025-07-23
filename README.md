@@ -16,19 +16,29 @@
 
 Imagextract requires Mac OS version 13 or greater to access the latest VisionKit APIs.
 
-The easiest way to install imagextract is to open a terminal window and run the following command:
+1. Open Terminal
+2. Run the following `curl` command:
 
 ```bash
 curl -L https://github.com/kariemoorman/imagextract/raw/main/install.sh | bash
 ```
+3. Reload terminal configuration file to incorporate new PATHs:
 
-Alternatively, download the latest release, unzip it, and place the `imagextract` executable somewhere on your `$PATH`.
+For ZShell users, 
+```bash
+source ~/.zshrc
+```
+
+ For Bash users,
+```bash
+source ~/.bashrc
+```
 
 
 ## Usage
 
 ```bash
-imagextract IMAGE_FILE
+imagextract IMAGE_FILE.[png|jpg|jpeg|pdf|tiff]
 ```
 
 ### Example
@@ -36,7 +46,7 @@ imagextract IMAGE_FILE
 <img src="example/example.png" alt="Example"  />
 
 
-Results: [imagextract: Proof of Concept](example/README.md)
+Output: [imagextract: Proof of Concept](example/README.md)
 
 
 
