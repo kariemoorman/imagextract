@@ -27,9 +27,10 @@ imagextract IMAGE_FILE
 ### Example
 
 ```
-imagextract screenshot.png
+imagextract screenshot.tiff
 ```
 
+<img src="example.png" alt="Example TIFF"  />
 
 
 
