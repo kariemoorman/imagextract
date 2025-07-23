@@ -1,0 +1,999 @@
+Class: street sign, Confidence: 15.466309%
+Class: sweatshirt, Confidence: 7.836914%
+Class: traffic light, traffic signal, stoplight, Confidence: 6.5979004%
+Class: steel drum, Confidence: 5.3894043%
+Class: ballplayer, baseball player, Confidence: 4.1015625%
+Class: marimba, xylophone, Confidence: 3.7902832%
+Class: crutch, Confidence: 2.4017334%
+Class: drumstick, Confidence: 2.130127%
+Class: parking meter, Confidence: 1.876831%
+Class: shopping cart, Confidence: 1.8615723%
+Class: dumbbell, Confidence: 1.8478394%
+Class: jersey, T-shirt, tee shirt, Confidence: 1.701355%
+Class: pretzel, Confidence: 1.6769409%
+Class: microphone, mike, Confidence: 1.6433716%
+Class: electric guitar, Confidence: 1.3473511%
+Class: baseball, Confidence: 1.3168335%
+Class: plunger, plumber's helper, Confidence: 1.197815%
+Class: maraca, Confidence: 1.0948181%
+Class: stage, Confidence: 1.0856628%
+Class: water bottle, Confidence: 0.91781616%
+Class: scoreboard, Confidence: 0.90789795%
+Class: unicycle, monocycle, Confidence: 0.9033203%
+Class: barbell, Confidence: 0.86746216%
+Class: acoustic guitar, Confidence: 0.64430237%
+Class: puck, hockey puck, Confidence: 0.61683655%
+Class: trombone, Confidence: 0.6122589%
+Class: gas pump, gasoline pump, petrol pump, island dispenser, Confidence: 0.61035156%
+Class: grocery store, grocery, food market, market, Confidence: 0.54626465%
+Class: soccer ball, Confidence: 0.5214691%
+Class: drum, membranophone, tympan, Confidence: 0.5214691%
+Class: punching bag, punch bag, punching ball, punchball, Confidence: 0.50468445%
+Class: tripod, Confidence: 0.49934387%
+Class: tricycle, trike, velocipede, Confidence: 0.497818%
+Class: basketball, Confidence: 0.48980713%
+Class: laptop, laptop computer, Confidence: 0.44555664%
+Class: whistle, Confidence: 0.4398346%
+Class: cinema, movie theater, movie theatre, movie house, picture palace, Confidence: 0.43258667%
+Class: motor scooter, scooter, Confidence: 0.36373138%
+Class: ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin, Confidence: 0.33187866%
+Class: fire engine, fire truck, Confidence: 0.32730103%
+Class: sax, saxophone, Confidence: 0.32024384%
+Class: neck brace, Confidence: 0.315094%
+Class: go-kart, Confidence: 0.29773712%
+Class: banjo, Confidence: 0.28915405%
+Class: balloon, Confidence: 0.28438568%
+Class: barracouta, snoek, Confidence: 0.27828217%
+Class: tobacco shop, tobacconist shop, tobacconist, Confidence: 0.2767563%
+Class: poncho, Confidence: 0.2714157%
+Class: cab, hack, taxi, taxicab, Confidence: 0.248909%
+Class: jinrikisha, ricksha, rickshaw, Confidence: 0.248909%
+Class: barbershop, Confidence: 0.24833679%
+Class: ambulance, Confidence: 0.2456665%
+Class: accordion, piano accordion, squeeze box, Confidence: 0.2456665%
+Class: moped, Confidence: 0.23975372%
+Class: beer glass, Confidence: 0.22945404%
+Class: pick, plectrum, plectron, Confidence: 0.22945404%
+Class: cellular telephone, cellular phone, cellphone, cell, mobile phone, Confidence: 0.21743774%
+Class: turnstile, Confidence: 0.21514893%
+Class: beer bottle, Confidence: 0.20999908%
+Class: sunglasses, dark glasses, shades, Confidence: 0.20999908%
+Class: monitor, Confidence: 0.20999908%
+Class: spatula, Confidence: 0.19779205%
+Class: pay-phone, pay-station, Confidence: 0.18892288%
+Class: Dungeness crab, Cancer magister, Confidence: 0.18892288%
+Class: cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM, Confidence: 0.18234253%
+Class: knee pad, Confidence: 0.17747879%
+Class: pier, Confidence: 0.17604828%
+Class: vending machine, Confidence: 0.17604828%
+Class: football helmet, Confidence: 0.17271042%
+Class: trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi, Confidence: 0.17137527%
+Class: cornet, horn, trumpet, trump, Confidence: 0.16498566%
+Class: gong, tam-tam, Confidence: 0.15964508%
+Class: pinwheel, Confidence: 0.15258789%
+Class: harmonica, mouth organ, harp, mouth harp, Confidence: 0.15010834%
+Class: ice lolly, lolly, lollipop, popsicle, Confidence: 0.14848709%
+Class: barrow, garden cart, lawn cart, wheelbarrow, Confidence: 0.14762878%
+Class: loudspeaker, speaker, speaker unit, loudspeaker system, speaker system, Confidence: 0.14724731%
+Class: projectile, missile, Confidence: 0.14486313%
+Class: racer, race car, racing car, Confidence: 0.14333725%
+Class: space shuttle, Confidence: 0.14257431%
+Class: comic book, Confidence: 0.14104843%
+Class: bell cote, bell cot, Confidence: 0.13837814%
+Class: planetarium, Confidence: 0.13618469%
+Class: jean, blue jean, denim, Confidence: 0.13618469%
+Class: plastic bag, Confidence: 0.13074875%
+Class: flagpole, flagstaff, Confidence: 0.12931824%
+Class: hammer, Confidence: 0.12893677%
+Class: cowboy hat, ten-gallon hat, Confidence: 0.12617111%
+Class: torch, Confidence: 0.12483597%
+Class: television, television system, Confidence: 0.12483597%
+Class: pole, Confidence: 0.123786926%
+Class: syringe, Confidence: 0.12283325%
+Class: mosque, Confidence: 0.12054443%
+Class: slot, one-armed bandit, Confidence: 0.120162964%
+Class: ping-pong ball, Confidence: 0.11730194%
+Class: restaurant, eating house, eating place, eatery, Confidence: 0.11320114%
+Class: ski mask, Confidence: 0.11320114%
+Class: assault rifle, assault gun, Confidence: 0.11291504%
+Class: oscilloscope, scope, cathode-ray oscilloscope, CRO, Confidence: 0.11110306%
+Class: bubble, Confidence: 0.11024475%
+Class: violin, fiddle, Confidence: 0.109004974%
+Class: binoculars, field glasses, opera glasses, Confidence: 0.10843277%
+Class: horizontal bar, high bar, Confidence: 0.10814667%
+Class: hotdog, hot dog, red hot, Confidence: 0.10728836%
+Class: analog clock, Confidence: 0.106716156%
+Class: night snake, Hypsiglena torquata, Confidence: 0.10442734%
+Class: cassette player, Confidence: 0.10442734%
+Class: bullet train, bullet, Confidence: 0.102996826%
+Class: chainlink fence, Confidence: 0.102996826%
+Class: triumphal arch, Confidence: 0.102710724%
+Class: paper towel, Confidence: 0.102710724%
+Class: pop bottle, soda bottle, Confidence: 0.10108948%
+Class: Band Aid, Confidence: 0.09994507%
+Class: flute, transverse flute, Confidence: 0.09889603%
+Class: broom, Confidence: 0.09832382%
+Class: mailbox, letter box, Confidence: 0.0954628%
+Class: Model T, Confidence: 0.0954628%
+Class: obelisk, Confidence: 0.09422302%
+Class: forklift, Confidence: 0.09393692%
+Class: seat belt, seatbelt, Confidence: 0.090932846%
+Class: sombrero, Confidence: 0.08945465%
+Class: library, Confidence: 0.08850098%
+Class: streetcar, tram, tramcar, trolley, trolley car, Confidence: 0.08778572%
+Class: school bus, Confidence: 0.08611679%
+Class: coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch, Confidence: 0.08544922%
+Class: limousine, limo, Confidence: 0.08454323%
+Class: panpipe, pandean pipe, syrinx, Confidence: 0.08382797%
+Class: bottlecap, Confidence: 0.08182526%
+Class: parallel bars, bars, Confidence: 0.08072853%
+Class: lighter, light, igniter, ignitor, Confidence: 0.08006096%
+Class: crash helmet, Confidence: 0.08006096%
+Class: hair spray, Confidence: 0.07815361%
+Class: stopwatch, stop watch, Confidence: 0.074863434%
+Class: cowboy boot, Confidence: 0.074863434%
+Class: sturgeon, Confidence: 0.070905685%
+Class: garbage truck, dustcart, Confidence: 0.070142746%
+Class: French horn, horn, Confidence: 0.06957054%
+Class: maillot, Confidence: 0.06918907%
+Class: Granny Smith, Confidence: 0.06861687%
+Class: sunglass, Confidence: 0.06623268%
+Class: liner, ocean liner, Confidence: 0.065898895%
+Class: golfcart, golf cart, Confidence: 0.06484985%
+Class: rifle, Confidence: 0.06394386%
+Class: park bench, Confidence: 0.06322861%
+Class: bow, Confidence: 0.06322861%
+Class: bagel, beigel, Confidence: 0.06270409%
+Class: tow truck, tow car, wrecker, Confidence: 0.06222725%
+Class: bearskin, busby, shako, Confidence: 0.06222725%
+Class: hand blower, blow dryer, blow drier, hair dryer, hair drier, Confidence: 0.06108284%
+Class: spotlight, spot, Confidence: 0.057554245%
+Class: beaker, Confidence: 0.05722046%
+Class: reel, Confidence: 0.05660057%
+Class: digital clock, Confidence: 0.05660057%
+Class: umbrella, Confidence: 0.05631447%
+Class: missile, Confidence: 0.05569458%
+Class: jack-o'-lantern, Confidence: 0.055408478%
+Class: screen, CRT screen, Confidence: 0.05478859%
+Class: ski, Confidence: 0.05364418%
+Class: buckle, Confidence: 0.05364418%
+Class: reflex camera, Confidence: 0.05364418%
+Class: bassoon, Confidence: 0.053358078%
+Class: rotisserie, Confidence: 0.053358078%
+Class: potter's wheel, Confidence: 0.052785873%
+Class: harp, Confidence: 0.05249977%
+Class: remote control, remote, Confidence: 0.051927567%
+Class: perfume, essence, Confidence: 0.051927567%
+Class: oxygen mask, Confidence: 0.051355362%
+Class: alp, Confidence: 0.050783157%
+Class: crate, Confidence: 0.050258636%
+Class: butcher shop, meat market, Confidence: 0.050258636%
+Class: digital watch, Confidence: 0.049972534%
+Class: shoe shop, shoe-shop, shoe store, Confidence: 0.04863739%
+Class: wine bottle, Confidence: 0.04837513%
+Class: folding chair, Confidence: 0.04734993%
+Class: espresso, Confidence: 0.04711151%
+Class: diamondback, diamondback rattlesnake, Crotalus adamanteus, Confidence: 0.04658699%
+Class: web site, website, internet site, site, Confidence: 0.045347214%
+Class: notebook, notebook computer, Confidence: 0.045108795%
+Class: cocktail shaker, Confidence: 0.044608116%
+Class: bobsled, bobsleigh, bob, Confidence: 0.044608116%
+Class: volcano, Confidence: 0.04389286%
+Class: shower cap, Confidence: 0.04365444%
+Class: spiny lobster, langouste, rock lobster, crawfish, crayfish, sea crawfish, Confidence: 0.04365444%
+Class: bulletproof vest, Confidence: 0.043416023%
+Class: ice cream, icecream, Confidence: 0.043416023%
+Class: upright, upright piano, Confidence: 0.043177605%
+Class: armadillo, Confidence: 0.042963028%
+Class: bakery, bakeshop, bakehouse, Confidence: 0.042963028%
+Class: barber chair, Confidence: 0.042963028%
+Class: swab, swob, mop, Confidence: 0.042963028%
+Class: quill, quill pen, Confidence: 0.04272461%
+Class: mountain bike, all-terrain bike, off-roader, Confidence: 0.042271614%
+Class: dock, dockage, docking facility, Confidence: 0.042271614%
+Class: Italian greyhound, Confidence: 0.042271614%
+Class: polecat, fitch, foulmart, foumart, Mustela putorius, Confidence: 0.041151047%
+Class: pool table, billiard table, snooker table, Confidence: 0.04069805%
+Class: rugby ball, Confidence: 0.039815903%
+Class: doormat, welcome mat, Confidence: 0.03938675%
+Class: clog, geta, patten, sabot, Confidence: 0.039172173%
+Class: cannon, Confidence: 0.038957596%
+Class: packet, Confidence: 0.03876686%
+Class: sundial, Confidence: 0.038552284%
+Class: wooden spoon, Confidence: 0.038552284%
+Class: hammerhead, hammerhead shark, Confidence: 0.038337708%
+Class: power drill, Confidence: 0.038146973%
+Class: candle, taper, wax light, Confidence: 0.037932396%
+Class: gar, garfish, garpike, billfish, Lepisosteus osseus, Confidence: 0.03774166%
+Class: car wheel, Confidence: 0.03774166%
+Class: confectionery, confectionary, candy store, Confidence: 0.036907196%
+Class: electric fan, blower, Confidence: 0.03631115%
+Class: trench coat, Confidence: 0.036144257%
+Class: tench, Tinca tinca, Confidence: 0.036144257%
+Class: tape player, Confidence: 0.036144257%
+Class: water jug, Confidence: 0.03592968%
+Class: king crab, Alaska crab, Alaskan king crab, Alaska king crab, Paralithodes camtschatica, Confidence: 0.035762787%
+Class: chain saw, chainsaw, Confidence: 0.035762787%
+Class: chain, Confidence: 0.035381317%
+Class: screwdriver, Confidence: 0.035381317%
+Class: pajama, pyjama, pj's, jammies, Confidence: 0.03516674%
+Class: ocarina, sweet potato, Confidence: 0.03516674%
+Class: stretcher, Confidence: 0.034976006%
+Class: vacuum, vacuum cleaner, Confidence: 0.03478527%
+Class: bicycle-built-for-two, tandem bicycle, tandem, Confidence: 0.03478527%
+Class: police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria, Confidence: 0.034213066%
+Class: tray, Confidence: 0.034213066%
+Class: CD player, Confidence: 0.034213066%
+Class: Siberian husky, Confidence: 0.034046173%
+Class: coffee mug, Confidence: 0.033664703%
+Class: stole, Confidence: 0.033307076%
+Class: military uniform, Confidence: 0.03311634%
+Class: fireboat, Confidence: 0.032424927%
+Class: lawn mower, mower, Confidence: 0.032234192%
+Class: binder, ring-binder, Confidence: 0.0320673%
+Class: computer keyboard, keypad, Confidence: 0.031900406%
+Class: water tower, Confidence: 0.031542778%
+Class: American lobster, Northern lobster, Maine lobster, Homarus americanus, Confidence: 0.031542778%
+Class: shopping basket, Confidence: 0.031352043%
+Class: carton, Confidence: 0.031208992%
+Class: schooner, Confidence: 0.030708313%
+Class: bull mastiff, Confidence: 0.030708313%
+Class: revolver, six-gun, six-shooter, Confidence: 0.030708313%
+Class: iPod, Confidence: 0.03054142%
+Class: beacon, lighthouse, beacon light, pharos, Confidence: 0.030207634%
+Class: chocolate sauce, chocolate syrup, Confidence: 0.030207634%
+Class: wok, Confidence: 0.029730797%
+Class: crossword puzzle, crossword, Confidence: 0.02925396%
+Class: oboe, hautboy, hautbois, Confidence: 0.028777122%
+Class: chime, bell, gong, Confidence: 0.028777122%
+Class: Bedlington terrier, Confidence: 0.028467178%
+Class: abacus, Confidence: 0.028157234%
+Class: swimming trunks, bathing trunks, Confidence: 0.027704239%
+Class: desk, Confidence: 0.027704239%
+Class: desktop computer, Confidence: 0.027561188%
+Class: cauliflower, Confidence: 0.027561188%
+Class: toilet tissue, toilet paper, bathroom tissue, Confidence: 0.027394295%
+Class: bolo tie, bolo, bola tie, bola, Confidence: 0.027394295%
+Class: hand-held computer, hand-held microcomputer, Confidence: 0.027394295%
+Class: suspension bridge, Confidence: 0.027394295%
+Class: mousetrap, Confidence: 0.026965141%
+Class: barrel, cask, Confidence: 0.026965141%
+Class: bathing cap, swimming cap, Confidence: 0.026679039%
+Class: minivan, Confidence: 0.026679039%
+Class: nipple, Confidence: 0.026512146%
+Class: scale, weighing machine, Confidence: 0.026392937%
+Class: running shoe, Confidence: 0.026249886%
+Class: Lhasa, Lhasa apso, Confidence: 0.025963783%
+Class: aircraft carrier, carrier, flattop, attack aircraft carrier, Confidence: 0.025963783%
+Class: schipperke, Confidence: 0.025820732%
+Class: worm fence, snake fence, snake-rail fence, Virginia fence, Confidence: 0.025820732%
+Class: bluetick, Confidence: 0.025820732%
+Class: guillotine, Confidence: 0.025820732%
+Class: whiskey jug, Confidence: 0.025820732%
+Class: Irish wolfhound, Confidence: 0.025677681%
+Class: mouse, computer mouse, Confidence: 0.025391579%
+Class: mask, Confidence: 0.024843216%
+Class: lab coat, laboratory coat, Confidence: 0.024580956%
+Class: eel, Confidence: 0.024461746%
+Class: geyser, Confidence: 0.024461746%
+Class: tiger shark, Galeocerdo cuvieri, Confidence: 0.023806095%
+Class: ballpoint, ballpoint pen, ballpen, Biro, Confidence: 0.023806095%
+Class: sleeping bag, Confidence: 0.023806095%
+Class: toyshop, Confidence: 0.023424625%
+Class: ear, spike, capitulum, Confidence: 0.023293495%
+Class: tennis ball, Confidence: 0.023043156%
+Class: grand piano, grand, Confidence: 0.022423267%
+Class: trolleybus, trolley coach, trackless trolley, Confidence: 0.022184849%
+Class: puffer, pufferfish, blowfish, globefish, Confidence: 0.022184849%
+Class: prison, prison house, Confidence: 0.022184849%
+Class: file, file cabinet, filing cabinet, Confidence: 0.02194643%
+Class: pineapple, ananas, Confidence: 0.02182722%
+Class: moving van, Confidence: 0.021362305%
+Class: croquet ball, Confidence: 0.021243095%
+Class: radio, wireless, Confidence: 0.020802021%
+Class: Dutch oven, Confidence: 0.020802021%
+Class: crane, Confidence: 0.020802021%
+Class: dough, Confidence: 0.020802021%
+Class: racket, racquet, Confidence: 0.020575523%
+Class: cassette, Confidence: 0.020241737%
+Class: goblet, Confidence: 0.019907951%
+Class: lipstick, lip rouge, Confidence: 0.019693375%
+Class: golf ball, Confidence: 0.019693375%
+Class: barometer, Confidence: 0.019586086%
+Class: West Highland white terrier, Confidence: 0.019276142%
+Class: Bernese mountain dog, Confidence: 0.018966198%
+Class: golden retriever, Confidence: 0.01887083%
+Class: tank, army tank, armored combat vehicle, armoured combat vehicle, Confidence: 0.018763542%
+Class: joystick, Confidence: 0.018656254%
+Class: sunscreen, sunblock, sun blocker, Confidence: 0.018560886%
+Class: espresso maker, Confidence: 0.018453598%
+Class: picket fence, paling, Confidence: 0.01834631%
+Class: volleyball, Confidence: 0.018262863%
+Class: shield, buckler, Confidence: 0.017774105%
+Class: mailbag, postbag, Confidence: 0.017690659%
+Class: Boston bull, Boston terrier, Confidence: 0.017690659%
+Class: plate, Confidence: 0.017488003%
+Class: stethoscope, Confidence: 0.017488003%
+Class: switch, electric switch, electrical switch, Confidence: 0.0172019%
+Class: jackfruit, jak, jack, Confidence: 0.0172019%
+Class: shovel, Confidence: 0.0172019%
+Class: container ship, containership, container vessel, Confidence: 0.016653538%
+Class: piggy bank, penny bank, Confidence: 0.016653538%
+Class: tractor, Confidence: 0.016474724%
+Class: whippet, Confidence: 0.015950203%
+Class: toy poodle, Confidence: 0.015854836%
+Class: backpack, back pack, knapsack, packsack, rucksack, haversack, Confidence: 0.015676022%
+Class: Great Dane, Confidence: 0.015604496%
+Class: sewing machine, Confidence: 0.015425682%
+Class: submarine, pigboat, sub, U-boat, Confidence: 0.0153541565%
+Class: hatchet, Confidence: 0.0153541565%
+Class: maze, labyrinth, Confidence: 0.0153541565%
+Class: steel arch bridge, Confidence: 0.01527071%
+Class: lens cap, lens cover, Confidence: 0.0151872635%
+Class: great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias, Confidence: 0.0151872635%
+Class: basset, basset hound, Confidence: 0.015103817%
+Class: burrito, Confidence: 0.015103817%
+Class: minibus, Confidence: 0.0150203705%
+Class: American alligator, Alligator mississipiensis, Confidence: 0.014936924%
+Class: carousel, carrousel, merry-go-round, roundabout, whirligig, Confidence: 0.014781952%
+Class: rocking chair, rocker, Confidence: 0.014781952%
+Class: wallaby, brush kangaroo, Confidence: 0.014781952%
+Class: mortar, Confidence: 0.014781952%
+Class: projector, Confidence: 0.014781952%
+Class: head cabbage, Confidence: 0.014698505%
+Class: Greater Swiss Mountain dog, Confidence: 0.01462698%
+Class: miniskirt, mini, Confidence: 0.014543533%
+Class: bucket, pail, Confidence: 0.014460087%
+Class: padlock, Confidence: 0.014460087%
+Class: paintbrush, Confidence: 0.0140070915%
+Class: triceratops, Confidence: 0.013852119%
+Class: wig, Confidence: 0.013780594%
+Class: airship, dirigible, Confidence: 0.013554096%
+Class: trifle, Confidence: 0.013554096%
+Class: Norwich terrier, Confidence: 0.013411045%
+Class: vizsla, Hungarian pointer, Confidence: 0.013053417%
+Class: frying pan, frypan, skillet, Confidence: 0.013053417%
+Class: red wine, Confidence: 0.012981892%
+Class: zucchini, courgette, Confidence: 0.012910366%
+Class: knot, Confidence: 0.012910366%
+Class: manhole cover, Confidence: 0.0128388405%
+Class: rock python, rock snake, Python sebae, Confidence: 0.012695789%
+Class: cello, violoncello, Confidence: 0.012636185%
+Class: carpenter's kit, tool kit, Confidence: 0.012493134%
+Class: brass, memorial tablet, plaque, Confidence: 0.012421608%
+Class: spaghetti squash, Confidence: 0.012362003%
+Class: passenger car, coach, carriage, Confidence: 0.012362003%
+Class: airliner, Confidence: 0.012290478%
+Class: odometer, hodometer, mileometer, milometer, Confidence: 0.012290478%
+Class: hook, claw, Confidence: 0.012230873%
+Class: wool, woolen, woollen, Confidence: 0.012093782%
+Class: French bulldog, Confidence: 0.012034178%
+Class: feather boa, boa, Confidence: 0.011837482%
+Class: abaya, Confidence: 0.011837482%
+Class: boa constrictor, Constrictor constrictor, Confidence: 0.011837482%
+Class: Saint Bernard, St Bernard, Confidence: 0.011777878%
+Class: Great Pyrenees, Confidence: 0.011712313%
+Class: fountain pen, Confidence: 0.011587143%
+Class: breakwater, groin, groyne, mole, bulwark, seawall, jetty, Confidence: 0.011461973%
+Class: bannister, banister, balustrade, balusters, handrail, Confidence: 0.011461973%
+Class: skunk, polecat, wood pussy, Confidence: 0.011461973%
+Class: loupe, jeweler's loupe, Confidence: 0.011336803%
+Class: seashore, coast, seacoast, sea-coast, Confidence: 0.011277199%
+Class: fountain, Confidence: 0.01103282%
+Class: eggnog, Confidence: 0.010854006%
+Class: Loafer, Confidence: 0.010854006%
+Class: komondor, Confidence: 0.010794401%
+Class: pug, pug-dog, Confidence: 0.010681152%
+Class: wombat, Confidence: 0.010621548%
+Class: mobile home, manufactured home, Confidence: 0.010621548%
+Class: measuring cup, Confidence: 0.010448694%
+Class: broccoli, Confidence: 0.010287762%
+Class: snowmobile, Confidence: 0.010228157%
+Class: hog, pig, grunter, squealer, Sus scrofa, Confidence: 0.010228157%
+Class: Chihuahua, Confidence: 0.010228157%
+Class: radio telescope, radio reflector, Confidence: 0.010228157%
+Class: Samoyed, Samoyede, Confidence: 0.010174513%
+Class: steam locomotive, Confidence: 0.010120869%
+Class: ladle, Confidence: 0.01000762%
+Class: solar dish, solar collector, solar furnace, Confidence: 0.009953976%
+Class: recreational vehicle, RV, R.V., Confidence: 0.009953976%
+Class: Dandie Dinmont, Dandie Dinmont terrier, Confidence: 0.009846687%
+Class: balance beam, beam, Confidence: 0.009793043%
+Class: hourglass, Confidence: 0.009793043%
+Class: cock, Confidence: 0.009793043%
+Class: toilet seat, Confidence: 0.009691715%
+Class: German shepherd, German shepherd dog, German police dog, alsatian, Confidence: 0.009483099%
+Class: trimaran, Confidence: 0.009435415%
+Class: orange, Confidence: 0.009435415%
+Class: sarong, Confidence: 0.009381771%
+Class: caldron, cauldron, Confidence: 0.009280443%
+Class: refrigerator, icebox, Confidence: 0.009226799%
+Class: carbonara, Confidence: 0.009173155%
+Class: safe, Confidence: 0.009077787%
+Class: dogsled, dog sled, dog sleigh, Confidence: 0.009036064%
+Class: space bar, Confidence: 0.00898242%
+Class: Petri dish, Confidence: 0.00898242%
+Class: Pomeranian, Confidence: 0.008940697%
+Class: paddle, boat paddle, Confidence: 0.008887053%
+Class: amphibian, amphibious vehicle, Confidence: 0.008845329%
+Class: American black bear, black bear, Ursus americanus, Euarctos americanus, Confidence: 0.008845329%
+Class: saltshaker, salt shaker, Confidence: 0.008791685%
+Class: Staffordshire bullterrier, Staffordshire bull terrier, Confidence: 0.008791685%
+Class: bow tie, bow-tie, bowtie, Confidence: 0.008696318%
+Class: sulphur-crested cockatoo, Kakatoe galerita, Cacatua galerita, Confidence: 0.008696318%
+Class: Pembroke, Pembroke Welsh corgi, Confidence: 0.008648634%
+Class: totem pole, Confidence: 0.0085532665%
+Class: badger, Confidence: 0.0085532665%
+Class: paddlewheel, paddle wheel, Confidence: 0.0085532665%
+Class: three-toed sloth, ai, Bradypus tridactylus, Confidence: 0.0085532665%
+Class: waffle iron, Confidence: 0.008416176%
+Class: butternut squash, Confidence: 0.008416176%
+Class: vase, Confidence: 0.008326769%
+Class: plane, carpenter's plane, woodworking plane, Confidence: 0.008326769%
+Class: brassiere, bra, bandeau, Confidence: 0.008279085%
+Class: snorkel, Confidence: 0.008279085%
+Class: theater curtain, theatre curtain, Confidence: 0.008237362%
+Class: mortarboard, Confidence: 0.008195639%
+Class: dome, Confidence: 0.008147955%
+Class: toaster, Confidence: 0.008147955%
+Class: envelope, Confidence: 0.008058548%
+Class: Indian cobra, Naja naja, Confidence: 0.008058548%
+Class: borzoi, Russian wolfhound, Confidence: 0.008016825%
+Class: custard apple, Confidence: 0.008016825%
+Class: wing, Confidence: 0.0079751015%
+Class: Old English sheepdog, bobtail, Confidence: 0.0079751015%
+Class: pill bottle, Confidence: 0.0079751015%
+Class: beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon, Confidence: 0.0079751015%
+Class: Maltese dog, Maltese terrier, Maltese, Confidence: 0.0078856945%
+Class: grille, radiator grille, Confidence: 0.0078856945%
+Class: home theater, home theatre, Confidence: 0.007838011%
+Class: kimono, Confidence: 0.0077605247%
+Class: vine snake, Confidence: 0.007635355%
+Class: soap dispenser, Confidence: 0.007635355%
+Class: viaduct, Confidence: 0.007635355%
+Class: freight car, Confidence: 0.0075519085%
+Class: miniature schnauzer, Confidence: 0.007468462%
+Class: typewriter keyboard, Confidence: 0.007432699%
+Class: washer, automatic washer, washing machine, Confidence: 0.00731349%
+Class: Chesapeake Bay retriever, Confidence: 0.0072300434%
+Class: vestment, Confidence: 0.0070750713%
+Class: chow, chow chow, Confidence: 0.0070750713%
+Class: sandbar, sand bar, Confidence: 0.0070750713%
+Class: rhinoceros beetle, Confidence: 0.0069618225%
+Class: meerkat, mierkat, Confidence: 0.0069260597%
+Class: hair slide, Confidence: 0.006777048%
+Class: church, church building, Confidence: 0.0067412853%
+Class: jigsaw puzzle, Confidence: 0.0067055225%
+Class: Rottweiler, Confidence: 0.006598234%
+Class: llama, Confidence: 0.006598234%
+Class: oxcart, Confidence: 0.0065624714%
+Class: cairn, cairn terrier, Confidence: 0.0065624714%
+Class: Newfoundland, Newfoundland dog, Confidence: 0.0065624714%
+Class: Labrador retriever, Confidence: 0.0065624714%
+Class: pencil sharpener, Confidence: 0.0065624714%
+Class: chimpanzee, chimp, Pan troglodytes, Confidence: 0.0065624714%
+Class: Shih-Tzu, Confidence: 0.0065267086%
+Class: echidna, spiny anteater, anteater, Confidence: 0.006490946%
+Class: pencil box, pencil case, Confidence: 0.006490946%
+Class: dalmatian, coach dog, carriage dog, Confidence: 0.006455183%
+Class: beaver, Confidence: 0.006455183%
+Class: rubber eraser, rubber, pencil eraser, Confidence: 0.006389618%
+Class: photocopier, Confidence: 0.006389618%
+Class: sea snake, Confidence: 0.006389618%
+Class: bookshop, bookstore, bookstall, Confidence: 0.0063180923%
+Class: Weimaraner, Confidence: 0.0063180923%
+Class: African grey, African gray, Psittacus erithacus, Confidence: 0.006210804%
+Class: corn, Confidence: 0.0061810017%
+Class: crayfish, crawfish, crawdad, crawdaddy, Confidence: 0.006145239%
+Class: malinois, Confidence: 0.0061154366%
+Class: car mirror, Confidence: 0.0061154366%
+Class: teddy, teddy bear, Confidence: 0.0060796738%
+Class: dial telephone, dial phone, Confidence: 0.0060796738%
+Class: papillon, Confidence: 0.0060498714%
+Class: meat loaf, meatloaf, Confidence: 0.006020069%
+Class: can opener, tin opener, Confidence: 0.006020069%
+Class: Sealyham terrier, Sealyham, Confidence: 0.005888939%
+Class: mountain tent, Confidence: 0.005823374%
+Class: iron, smoothing iron, Confidence: 0.0057935715%
+Class: cleaver, meat cleaver, chopper, Confidence: 0.005763769%
+Class: terrapin, Confidence: 0.005763769%
+Class: Afghan hound, Afghan, Confidence: 0.005733967%
+Class: Scotch terrier, Scottish terrier, Scottie, Confidence: 0.005698204%
+Class: magnetic compass, Confidence: 0.005608797%
+Class: letter opener, paper knife, paperknife, Confidence: 0.0055491924%
+Class: Scottish deerhound, deerhound, Confidence: 0.0055491924%
+Class: Angora, Angora rabbit, Confidence: 0.00551939%
+Class: hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa, Confidence: 0.005489588%
+Class: suit, suit of clothes, Confidence: 0.0054597855%
+Class: Airedale, Airedale terrier, Confidence: 0.005400181%
+Class: English springer, English springer spaniel, Confidence: 0.0053703785%
+Class: black-and-tan coonhound, Confidence: 0.0053703785%
+Class: pizza, pizza pie, Confidence: 0.0053703785%
+Class: Eskimo dog, husky, Confidence: 0.005340576%
+Class: pedestal, plinth, footstall, Confidence: 0.005310774%
+Class: rule, ruler, Confidence: 0.005310774%
+Class: Crock Pot, Confidence: 0.005310774%
+Class: koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus, Confidence: 0.0052571297%
+Class: loggerhead, loggerhead turtle, Caretta caretta, Confidence: 0.0052273273%
+Class: sea lion, Confidence: 0.0052273273%
+Class: cup, Confidence: 0.0052273273%
+Class: conch, Confidence: 0.0052034855%
+Class: medicine chest, medicine cabinet, Confidence: 0.005173683%
+Class: spindle, Confidence: 0.005173683%
+Class: isopod, Confidence: 0.0051140785%
+Class: clumber, clumber spaniel, Confidence: 0.0050902367%
+Class: miniature poodle, Confidence: 0.004953146%
+Class: screw, Confidence: 0.0049233437%
+Class: stove, Confidence: 0.0049233437%
+Class: cloak, Confidence: 0.0049233437%
+Class: Pekinese, Pekingese, Peke, Confidence: 0.0049233437%
+Class: pirate, pirate ship, Confidence: 0.0049233437%
+Class: mitten, Confidence: 0.0048696995%
+Class: porcupine, hedgehog, Confidence: 0.0048696995%
+Class: platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus, Confidence: 0.0048696995%
+Class: pomegranate, Confidence: 0.0048458576%
+Class: slide rule, slipstick, Confidence: 0.0048458576%
+Class: warthog, Confidence: 0.0048458576%
+Class: diaper, nappy, napkin, Confidence: 0.0048220158%
+Class: milk can, Confidence: 0.0048220158%
+Class: organ, pipe organ, Confidence: 0.0048220158%
+Class: entertainment center, Confidence: 0.0047683716%
+Class: disk brake, disc brake, Confidence: 0.0046670437%
+Class: parachute, chute, Confidence: 0.0045895576%
+Class: Irish water spaniel, Confidence: 0.004541874%
+Class: microwave, microwave oven, Confidence: 0.004541874%
+Class: rock crab, Cancer irroratus, Confidence: 0.004518032%
+Class: lumbermill, sawmill, Confidence: 0.004518032%
+Class: standard poodle, Confidence: 0.004518032%
+Class: banana, Confidence: 0.0044465065%
+Class: water snake, Confidence: 0.0044465065%
+Class: safety pin, Confidence: 0.004374981%
+Class: Doberman, Doberman pinscher, Confidence: 0.004374981%
+Class: shoji, Confidence: 0.004374981%
+Class: redbone, Confidence: 0.004351139%
+Class: flat-coated retriever, Confidence: 0.004351139%
+Class: wild boar, boar, Sus scrofa, Confidence: 0.0042796135%
+Class: coyote, prairie wolf, brush wolf, Canis latrans, Confidence: 0.0042796135%
+Class: cheeseburger, Confidence: 0.0042796135%
+Class: warplane, military plane, Confidence: 0.0042796135%
+Class: zebra, Confidence: 0.00423193%
+Class: white wolf, Arctic wolf, Canis lupus tundrarum, Confidence: 0.00423193%
+Class: lemon, Confidence: 0.004208088%
+Class: academic gown, academic robe, judge's robe, Confidence: 0.004184246%
+Class: crib, cot, Confidence: 0.004184246%
+Class: thimble, Confidence: 0.004142523%
+Class: sliding door, Confidence: 0.004142523%
+Class: kelpie, Confidence: 0.004118681%
+Class: giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca, Confidence: 0.004118681%
+Class: guacamole, Confidence: 0.004118681%
+Class: Brittany spaniel, Confidence: 0.0040769577%
+Class: swing, Confidence: 0.0040769577%
+Class: coil, spiral, volute, whorl, helix, Confidence: 0.004053116%
+Class: nail, Confidence: 0.004053116%
+Class: radiator, Confidence: 0.0040113926%
+Class: Kerry blue terrier, Confidence: 0.0040113926%
+Class: wall clock, Confidence: 0.003963709%
+Class: green mamba, Confidence: 0.003963709%
+Class: sea urchin, Confidence: 0.0039041042%
+Class: combination lock, Confidence: 0.0039041042%
+Class: matchstick, Confidence: 0.0038564205%
+Class: prayer rug, prayer mat, Confidence: 0.0038564205%
+Class: convertible, Confidence: 0.0038385391%
+Class: mashed potato, Confidence: 0.0037968159%
+Class: chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour, Confidence: 0.0037789345%
+Class: Christmas stocking, Confidence: 0.0037193298%
+Class: menu, Confidence: 0.0037193298%
+Class: lakeside, lakeshore, Confidence: 0.003695488%
+Class: pickup, pickup truck, Confidence: 0.003695488%
+Class: boxer, Confidence: 0.003695488%
+Class: American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier, Confidence: 0.003695488%
+Class: thunder snake, worm snake, Carphophis amoenus, Confidence: 0.003695488%
+Class: sock, Confidence: 0.0036597252%
+Class: Gordon setter, Confidence: 0.0036597252%
+Class: acorn squash, Confidence: 0.0035762787%
+Class: Mexican hairless, Confidence: 0.0035762787%
+Class: beagle, Confidence: 0.003540516%
+Class: toy terrier, Confidence: 0.003540516%
+Class: sports car, sport car, Confidence: 0.0035226345%
+Class: keeshond, Confidence: 0.0035226345%
+Class: wire-haired fox terrier, Confidence: 0.0035226345%
+Class: lotion, Confidence: 0.0034809113%
+Class: bookcase, Confidence: 0.0034809113%
+Class: walking stick, walkingstick, stick insect, Confidence: 0.0034809113%
+Class: honeycomb, Confidence: 0.0034809113%
+Class: throne, Confidence: 0.0034630299%
+Class: Shetland sheepdog, Shetland sheep dog, Shetland, Confidence: 0.0034630299%
+Class: dingo, warrigal, warragal, Canis dingo, Confidence: 0.0034630299%
+Class: gasmask, respirator, gas helmet, Confidence: 0.0034451485%
+Class: gondola, Confidence: 0.0034451485%
+Class: German short-haired pointer, Confidence: 0.0034093857%
+Class: Bouvier des Flandres, Bouviers des Flandres, Confidence: 0.0034093857%
+Class: artichoke, globe artichoke, Confidence: 0.0033557415%
+Class: cardigan, Confidence: 0.0033557415%
+Class: Gila monster, Heloderma suspectum, Confidence: 0.0033557415%
+Class: face powder, Confidence: 0.0033020973%
+Class: malamute, malemute, Alaskan malamute, Confidence: 0.0033020973%
+Class: electric ray, crampfish, numbfish, torpedo, Confidence: 0.0032305717%
+Class: strainer, Confidence: 0.0032305717%
+Class: horse cart, horse-cart, Confidence: 0.0032305717%
+Class: birdhouse, Confidence: 0.0031590462%
+Class: corkscrew, bottle screw, Confidence: 0.0031590462%
+Class: Windsor tie, Confidence: 0.0031590462%
+Class: book jacket, dust cover, dust jacket, dust wrapper, Confidence: 0.003105402%
+Class: bloodhound, sleuthhound, Confidence: 0.0030755997%
+Class: coffeepot, Confidence: 0.0030577183%
+Class: cucumber, cuke, Confidence: 0.0030219555%
+Class: silky terrier, Sydney silky, Confidence: 0.0030219555%
+Class: scorpion, Confidence: 0.0030219555%
+Class: speedboat, Confidence: 0.0030219555%
+Class: cliff, drop, drop-off, Confidence: 0.0030100346%
+Class: plow, plough, Confidence: 0.0030100346%
+Class: English setter, Confidence: 0.0030100346%
+Class: Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis, Confidence: 0.0029921532%
+Class: killer whale, killer, orca, grampus, sea wolf, Orcinus orca, Confidence: 0.0029921532%
+Class: baboon, Confidence: 0.0029921532%
+Class: great grey owl, great gray owl, Strix nebulosa, Confidence: 0.0029444695%
+Class: scabbard, Confidence: 0.0029444695%
+Class: lifeboat, Confidence: 0.0029444695%
+Class: centipede, Confidence: 0.0029146671%
+Class: printer, Confidence: 0.0029146671%
+Class: greenhouse, nursery, glasshouse, Confidence: 0.0029146671%
+Class: catamaran, Confidence: 0.0028967857%
+Class: groenendael, Confidence: 0.0028967857%
+Class: Cardigan, Cardigan Welsh corgi, Confidence: 0.0028967857%
+Class: tub, vat, Confidence: 0.002849102%
+Class: bassinet, Confidence: 0.0028192997%
+Class: handkerchief, hankie, hanky, hankey, Confidence: 0.0028192997%
+Class: Irish terrier, Confidence: 0.0028192997%
+Class: French loaf, Confidence: 0.0028192997%
+Class: snowplow, snowplough, Confidence: 0.0028192997%
+Class: Norfolk terrier, Confidence: 0.0027894974%
+Class: tiger cat, Confidence: 0.0027418137%
+Class: dam, dike, dyke, Confidence: 0.0027418137%
+Class: toucan, Confidence: 0.0027418137%
+Class: sea cucumber, holothurian, Confidence: 0.0027000904%
+Class: jeep, landrover, Confidence: 0.0026404858%
+Class: wreck, Confidence: 0.0026404858%
+Class: Border collie, Confidence: 0.0026404858%
+Class: shower curtain, Confidence: 0.0026404858%
+Class: ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Confidence: 0.0025749207%
+Class: frilled lizard, Chlamydosaurus kingi, Confidence: 0.0025749207%
+Class: basenji, Confidence: 0.0025570393%
+Class: bikini, two-piece, Confidence: 0.0024914742%
+Class: hoopskirt, crinoline, Confidence: 0.0024914742%
+Class: macaque, Confidence: 0.0024914742%
+Class: starfish, sea star, Confidence: 0.0024795532%
+Class: timber wolf, grey wolf, gray wolf, Canis lupus, Confidence: 0.0024795532%
+Class: Blenheim spaniel, Confidence: 0.0024795532%
+Class: Border terrier, Confidence: 0.0024795532%
+Class: drilling platform, offshore rig, Confidence: 0.0024616718%
+Class: bib, Confidence: 0.0024616718%
+Class: standard schnauzer, Confidence: 0.0024616718%
+Class: ringneck snake, ring-necked snake, ring snake, Confidence: 0.0024616718%
+Class: bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis, Confidence: 0.00243783%
+Class: briard, Confidence: 0.002425909%
+Class: leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea, Confidence: 0.0023961067%
+Class: Australian terrier, Confidence: 0.0023841858%
+Class: brown bear, bruin, Ursus arctos, Confidence: 0.002360344%
+Class: king snake, kingsnake, Confidence: 0.002348423%
+Class: soup bowl, Confidence: 0.002348423%
+Class: sidewinder, horned rattlesnake, Crotalus cerastes, Confidence: 0.0023066998%
+Class: hyena, hyaena, Confidence: 0.0023066998%
+Class: peacock, Confidence: 0.002270937%
+Class: water buffalo, water ox, Asiatic buffalo, Bubalus bubalis, Confidence: 0.002259016%
+Class: kuvasz, Confidence: 0.0022232533%
+Class: magpie, Confidence: 0.0021994114%
+Class: Yorkshire terrier, Confidence: 0.0021874905%
+Class: half track, Confidence: 0.0021636486%
+Class: bison, Confidence: 0.0021517277%
+Class: tarantula, Confidence: 0.0021517277%
+Class: fire screen, fireguard, Confidence: 0.0021517277%
+Class: macaw, Confidence: 0.0021517277%
+Class: indigo bunting, indigo finch, indigo bird, Passerina cyanea, Confidence: 0.0021398067%
+Class: fiddler crab, Confidence: 0.0021398067%
+Class: black grouse, Confidence: 0.002115965%
+Class: Polaroid camera, Polaroid Land camera, Confidence: 0.002104044%
+Class: weasel, Confidence: 0.002080202%
+Class: fur coat, Confidence: 0.002080202%
+Class: miniature pinscher, Confidence: 0.002080202%
+Class: Saluki, gazelle hound, Confidence: 0.002080202%
+Class: Ibizan hound, Ibizan Podenco, Confidence: 0.0020682812%
+Class: sloth bear, Melursus ursinus, Ursus ursinus, Confidence: 0.002014637%
+Class: Lakeland terrier, Confidence: 0.002002716%
+Class: promontory, headland, head, foreland, Confidence: 0.0019729137%
+Class: hognose snake, puff adder, sand viper, Confidence: 0.0019609928%
+Class: goose, Confidence: 0.0019431114%
+Class: leopard, Panthera pardus, Confidence: 0.0019431114%
+Class: Arabian camel, dromedary, Camelus dromedarius, Confidence: 0.0019311905%
+Class: tabby, tabby cat, Confidence: 0.0019073486%
+Class: fox squirrel, eastern fox squirrel, Sciurus niger, Confidence: 0.0019073486%
+Class: mixing bowl, Confidence: 0.0019073486%
+Class: Tibetan mastiff, Confidence: 0.0019013882%
+Class: strawberry, Confidence: 0.0019013882%
+Class: Brabancon griffon, Confidence: 0.0019013882%
+Class: monastery, Confidence: 0.0019013882%
+Class: horned viper, cerastes, sand viper, horned asp, Cerastes cornutus, Confidence: 0.0018775463%
+Class: dung beetle, Confidence: 0.0018596649%
+Class: apron, Confidence: 0.0018596649%
+Class: capuchin, ringtail, Cebus capucinus, Confidence: 0.0018358231%
+Class: trilobite, Confidence: 0.0018298626%
+Class: bell pepper, Confidence: 0.0018298626%
+Class: patio, terrace, Confidence: 0.0018000603%
+Class: teapot, Confidence: 0.0018000603%
+Class: vulture, Confidence: 0.0018000603%
+Class: tusker, Confidence: 0.001770258%
+Class: cocker spaniel, English cocker spaniel, cocker, Confidence: 0.001770258%
+Class: rain barrel, Confidence: 0.001770258%
+Class: vault, Confidence: 0.001770258%
+Class: muzzle, Confidence: 0.001758337%
+Class: pot, flowerpot, Confidence: 0.001758337%
+Class: pitcher, ewer, Confidence: 0.001758337%
+Class: Madagascar cat, ring-tailed lemur, Lemur catta, Confidence: 0.0017404556%
+Class: Rhodesian ridgeback, Confidence: 0.0017344952%
+Class: maillot, tank suit, Confidence: 0.0017344952%
+Class: Norwegian elkhound, elkhound, Confidence: 0.0017046928%
+Class: brain coral, Confidence: 0.0017046928%
+Class: lynx, catamount, Confidence: 0.0016868114%
+Class: sandal, Confidence: 0.0016868114%
+Class: snail, Confidence: 0.0016570091%
+Class: breastplate, aegis, egis, Confidence: 0.0016570091%
+Class: window screen, Confidence: 0.0016510487%
+Class: Egyptian cat, Confidence: 0.0016510487%
+Class: spotted salamander, Ambystoma maculatum, Confidence: 0.0016391277%
+Class: Irish setter, red setter, Confidence: 0.0016212463%
+Class: hot pot, hotpot, Confidence: 0.0016152859%
+Class: soft-coated wheaten terrier, Confidence: 0.0016152859%
+Class: ox, Confidence: 0.0016152859%
+Class: black-footed ferret, ferret, Mustela nigripes, Confidence: 0.0015974045%
+Class: common iguana, iguana, Iguana iguana, Confidence: 0.0015974045%
+Class: bullfrog, Rana catesbeiana, Confidence: 0.0015616417%
+Class: affenpinscher, monkey pinscher, monkey dog, Confidence: 0.0015616417%
+Class: palace, Confidence: 0.0015437603%
+Class: colobus, colobus monkey, Confidence: 0.0015318394%
+Class: curly-coated retriever, Confidence: 0.001513958%
+Class: pickelhaube, Confidence: 0.001502037%
+Class: Walker hound, Walker foxhound, Confidence: 0.0014781952%
+Class: holster, Confidence: 0.0014781952%
+Class: prairie chicken, prairie grouse, prairie fowl, Confidence: 0.0014424324%
+Class: thatch, thatched roof, Confidence: 0.0014424324%
+Class: damselfly, Confidence: 0.001424551%
+Class: whiptail, whiptail lizard, Confidence: 0.001424551%
+Class: maypole, Confidence: 0.001424551%
+Class: rapeseed, Confidence: 0.0014126301%
+Class: fig, Confidence: 0.0014126301%
+Class: spider web, spider's web, Confidence: 0.0014007092%
+Class: ram, tup, Confidence: 0.0014007092%
+Class: EntleBucher, Confidence: 0.0013887882%
+Class: cougar, puma, catamount, mountain lion, painter, panther, Felis concolor, Confidence: 0.0013887882%
+Class: stupa, tope, Confidence: 0.0013887882%
+Class: Siamese cat, Siamese, Confidence: 0.0013887882%
+Class: African crocodile, Nile crocodile, Crocodylus niloticus, Confidence: 0.0013768673%
+Class: indri, indris, Indri indri, Indri brevicaudatus, Confidence: 0.0013768673%
+Class: scuba diver, Confidence: 0.0013768673%
+Class: quail, Confidence: 0.0013649464%
+Class: buckeye, horse chestnut, conker, Confidence: 0.0013589859%
+Class: guinea pig, Cavia cobaya, Confidence: 0.0013589859%
+Class: megalith, megalithic structure, Confidence: 0.0013411045%
+Class: Leonberg, Confidence: 0.001335144%
+Class: tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui, Confidence: 0.0013291836%
+Class: window shade, Confidence: 0.0013113022%
+Class: proboscis monkey, Nasalis larvatus, Confidence: 0.0013053417%
+Class: European gallinule, Porphyrio porphyrio, Confidence: 0.0012934208%
+Class: modem, Confidence: 0.0012695789%
+Class: wardrobe, closet, press, Confidence: 0.0012695789%
+Class: earthstar, Confidence: 0.0012516975%
+Class: tiger, Panthera tigris, Confidence: 0.0012457371%
+Class: yawl, Confidence: 0.0012457371%
+Class: velvet, Confidence: 0.0012397766%
+Class: potpie, Confidence: 0.0012397766%
+Class: Welsh springer spaniel, Confidence: 0.0012397766%
+Class: black widow, Latrodectus mactans, Confidence: 0.0012218952%
+Class: oystercatcher, oyster catcher, Confidence: 0.0012218952%
+Class: oil filter, Confidence: 0.0012040138%
+Class: Indian elephant, Elephas maximus, Confidence: 0.0011980534%
+Class: cockroach, roach, Confidence: 0.001180172%
+Class: ostrich, Struthio camelus, Confidence: 0.001180172%
+Class: axolotl, mud puppy, Ambystoma mexicanum, Confidence: 0.0011742115%
+Class: coral reef, Confidence: 0.0011742115%
+Class: mongoose, Confidence: 0.0011622906%
+Class: red fox, Vulpes vulpes, Confidence: 0.0011563301%
+Class: bolete, Confidence: 0.0011444092%
+Class: cradle, Confidence: 0.0011324883%
+Class: giant schnauzer, Confidence: 0.0011205673%
+Class: hornbill, Confidence: 0.0011205673%
+Class: hard disc, hard disk, fixed disk, Confidence: 0.0011086464%
+Class: rock beauty, Holocanthus tricolor, Confidence: 0.0010967255%
+Class: jaguar, panther, Panthera onca, Felis onca, Confidence: 0.0010788441%
+Class: Persian cat, Confidence: 0.0010728836%
+Class: electric locomotive, Confidence: 0.0010490417%
+Class: Tibetan terrier, chrysanthemum dog, Confidence: 0.0010490417%
+Class: tick, Confidence: 0.0010430813%
+Class: hermit crab, Confidence: 0.0010311604%
+Class: Appenzeller, Confidence: 0.0010251999%
+Class: washbasin, handbasin, washbowl, lavabo, wash-hand basin, Confidence: 0.0010251999%
+Class: Sussex spaniel, Confidence: 0.0009894371%
+Class: wood rabbit, cottontail, cottontail rabbit, Confidence: 0.0009834766%
+Class: pelican, Confidence: 0.0009834766%
+Class: snow leopard, ounce, Panthera uncia, Confidence: 0.0009715557%
+Class: chest, Confidence: 0.0009596348%
+Class: cheetah, chetah, Acinonyx jubatus, Confidence: 0.0009596348%
+Class: spider monkey, Ateles geoffroyi, Confidence: 0.0009417534%
+Class: harvester, reaper, Confidence: 0.0009357929%
+Class: canoe, Confidence: 0.00091791153%
+Class: gown, Confidence: 0.0009059906%
+Class: wallet, billfold, notecase, pocketbook, Confidence: 0.0008881092%
+Class: lampshade, lamp shade, Confidence: 0.0008881092%
+Class: siamang, Hylobates syndactylus, Symphalangus syndactylus, Confidence: 0.0008881092%
+Class: grey fox, gray fox, Urocyon cinereoargenteus, Confidence: 0.0008761883%
+Class: castle, Confidence: 0.0008702278%
+Class: kite, Confidence: 0.00086426735%
+Class: sorrel, Confidence: 0.0008583069%
+Class: dugong, Dugong dugon, Confidence: 0.00084638596%
+Class: mink, Confidence: 0.00082850456%
+Class: quilt, comforter, comfort, puff, Confidence: 0.00082850456%
+Class: titi, titi monkey, Confidence: 0.0008225441%
+Class: hay, Confidence: 0.00081062317%
+Class: squirrel monkey, Saimiri sciureus, Confidence: 0.0008046627%
+Class: brambling, Fringilla montifringilla, Confidence: 0.00079870224%
+Class: king penguin, Aptenodytes patagonica, Confidence: 0.0007927418%
+Class: yurt, Confidence: 0.0007927418%
+Class: lorikeet, Confidence: 0.0007867813%
+Class: ibex, Capra ibex, Confidence: 0.0007867813%
+Class: gorilla, Gorilla gorilla, Confidence: 0.00078082085%
+Class: American egret, great white heron, Egretta albus, Confidence: 0.00078082085%
+Class: red-backed sandpiper, dunlin, Erolia alpina, Confidence: 0.000756979%
+Class: alligator lizard, Confidence: 0.00074505806%
+Class: robin, American robin, Turdus migratorius, Confidence: 0.0007390976%
+Class: mantis, mantid, Confidence: 0.0007390976%
+Class: stingray, Confidence: 0.00073313713%
+Class: African elephant, Loxodonta africana, Confidence: 0.00073313713%
+Class: bald eagle, American eagle, Haliaeetus leucocephalus, Confidence: 0.00073313713%
+Class: green snake, grass snake, Confidence: 0.00072717667%
+Class: howler monkey, howler, Confidence: 0.0007033348%
+Class: space heater, Confidence: 0.0007033348%
+Class: consomme, Confidence: 0.0006854534%
+Class: American coot, marsh hen, mud hen, water hen, Fulica americana, Confidence: 0.0006854534%
+Class: dishwasher, dish washer, dishwashing machine, Confidence: 0.00067949295%
+Class: chambered nautilus, pearly nautilus, nautilus, Confidence: 0.000667572%
+Class: altar, Confidence: 0.00066161156%
+Class: lionfish, Confidence: 0.0006377697%
+Class: valley, vale, Confidence: 0.0006377697%
+Class: garter snake, grass snake, Confidence: 0.00061392784%
+Class: bustard, Confidence: 0.00061392784%
+Class: overskirt, Confidence: 0.00061392784%
+Class: hippopotamus, hippo, river horse, Hippopotamus amphibius, Confidence: 0.0006079674%
+Class: tiger beetle, Confidence: 0.00059604645%
+Class: Japanese spaniel, Confidence: 0.00059604645%
+Class: bathtub, bathing tub, bath, tub, Confidence: 0.00059604645%
+Class: little blue heron, Egretta caerulea, Confidence: 0.00059604645%
+Class: gyromitra, Confidence: 0.000590086%
+Class: table lamp, Confidence: 0.0005841255%
+Class: cardoon, Confidence: 0.0005841255%
+Class: ant, emmet, pismire, Confidence: 0.00057816505%
+Class: drake, Confidence: 0.0005722046%
+Class: gibbon, Hylobates lar, Confidence: 0.0005662441%
+Class: apiary, bee house, Confidence: 0.0005662441%
+Class: stinkhorn, carrion fungus, Confidence: 0.0005662441%
+Class: Arctic fox, white fox, Alopex lagopus, Confidence: 0.00056028366%
+Class: hare, Confidence: 0.0005543232%
+Class: albatross, mollymawk, Confidence: 0.0005543232%
+Class: acorn, Confidence: 0.00054240227%
+Class: thresher, thrasher, threshing machine, Confidence: 0.0005364418%
+Class: orangutan, orang, orangutang, Pongo pygmaeus, Confidence: 0.00053048134%
+Class: house finch, linnet, Carpodacus mexicanus, Confidence: 0.0005245209%
+Class: chiton, coat-of-mail shell, sea cradle, polyplacophore, Confidence: 0.0005245209%
+Class: studio couch, day bed, Confidence: 0.0005185604%
+Class: dining table, board, Confidence: 0.00051259995%
+Class: hen, Confidence: 0.0005066395%
+Class: black swan, Cygnus atratus, Confidence: 0.0005066395%
+Class: green lizard, Lacerta viridis, Confidence: 0.0005066395%
+Class: dowitcher, Confidence: 0.0005066395%
+Class: mushroom, Confidence: 0.000500679%
+Class: boathouse, Confidence: 0.00049471855%
+Class: stone wall, Confidence: 0.0004708767%
+Class: coucal, Confidence: 0.0004708767%
+Class: collie, Confidence: 0.00046491623%
+Class: hamper, Confidence: 0.00046491623%
+Class: jay, Confidence: 0.00046491623%
+Class: junco, snowbird, Confidence: 0.00046491623%
+Class: goldfish, Carassius auratus, Confidence: 0.0004529953%
+Class: monarch, monarch butterfly, milkweed butterfly, Danaus plexippus, Confidence: 0.0004529953%
+Class: yellow lady's slipper, yellow lady-slipper, Cypripedium calceolus, Cypripedium parviflorum, Confidence: 0.0004529953%
+Class: bonnet, poke bonnet, Confidence: 0.00044703484%
+Class: jellyfish, Confidence: 0.00044703484%
+Class: groom, bridegroom, Confidence: 0.00044107437%
+Class: patas, hussar monkey, Erythrocebus patas, Confidence: 0.00042915344%
+Class: lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens, Confidence: 0.00042319298%
+Class: daisy, Confidence: 0.00042319298%
+Class: grasshopper, hopper, Confidence: 0.00042319298%
+Class: cuirass, Confidence: 0.00042319298%
+Class: bath towel, Confidence: 0.00042319298%
+Class: sea anemone, anemone, Confidence: 0.00039935112%
+Class: red wolf, maned wolf, Canis rufus, Canis niger, Confidence: 0.00038146973%
+Class: goldfinch, Carduelis carduelis, Confidence: 0.00038146973%
+Class: African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus, Confidence: 0.00037550926%
+Class: European fire salamander, Salamandra salamandra, Confidence: 0.0003695488%
+Class: slug, Confidence: 0.0003695488%
+Class: ruddy turnstone, Arenaria interpres, Confidence: 0.00036358833%
+Class: English foxhound, Confidence: 0.00036358833%
+Class: American chameleon, anole, Anolis carolinensis, Confidence: 0.00035762787%
+Class: dishrag, dishcloth, Confidence: 0.0003516674%
+Class: ptarmigan, Confidence: 0.00034570694%
+Class: guenon, guenon monkey, Confidence: 0.00034570694%
+Class: otter, Confidence: 0.00033974648%
+Class: black and gold garden spider, Argiope aurantia, Confidence: 0.00032782555%
+Class: lacewing, lacewing fly, Confidence: 0.00031590462%
+Class: partridge, Confidence: 0.00031590462%
+Class: barn spider, Araneus cavaticus, Confidence: 0.00031590462%
+Class: hamster, Confidence: 0.00030994415%
+Class: dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk, Confidence: 0.0003039837%
+Class: cliff dwelling, Confidence: 0.00028014183%
+Class: ruffed grouse, partridge, Bonasa umbellus, Confidence: 0.00028014183%
+Class: red-breasted merganser, Mergus serrator, Confidence: 0.00028014183%
+Class: flatworm, platyhelminth, Confidence: 0.0002682209%
+Class: cabbage butterfly, Confidence: 0.0002682209%
+Class: redshank, Tringa totanus, Confidence: 0.0002682209%
+Class: kit fox, Vulpes macrotis, Confidence: 0.00026226044%
+Class: langur, Confidence: 0.00026226044%
+Class: chickadee, Confidence: 0.00025629997%
+Class: flamingo, Confidence: 0.00025629997%
+Class: bittern, Confidence: 0.00025629997%
+Class: impala, Aepyceros melampus, Confidence: 0.00025629997%
+Class: otterhound, otter hound, Confidence: 0.00025629997%
+Class: wolf spider, hunting spider, Confidence: 0.0002503395%
+Class: necklace, Confidence: 0.00024437904%
+Class: long-horned beetle, longicorn, longicorn beetle, Confidence: 0.00024437904%
+Class: nematode, nematode worm, roundworm, Confidence: 0.00023841858%
+Class: eft, Confidence: 0.00023841858%
+Class: barn, Confidence: 0.00023245811%
+Class: limpkin, Aramus pictus, Confidence: 0.00023245811%
+Class: banded gecko, Confidence: 0.00022649765%
+Class: ground beetle, carabid beetle, Confidence: 0.00022053719%
+Class: hip, rose hip, rosehip, Confidence: 0.00022053719%
+Class: purse, Confidence: 0.00022053719%
+Class: harvestman, daddy longlegs, Phalangium opilio, Confidence: 0.00021457672%
+Class: bee, Confidence: 0.00020265579%
+Class: marmoset, Confidence: 0.00020265579%
+Class: sea slug, nudibranch, Confidence: 0.00020265579%
+Class: marmot, Confidence: 0.00019669533%
+Class: garden spider, Aranea diademata, Confidence: 0.00019669533%
+Class: plate rack, Confidence: 0.0001847744%
+Class: agaric, Confidence: 0.00017881393%
+Class: hartebeest, Confidence: 0.00017881393%
+Class: mud turtle, Confidence: 0.00017285347%
+Class: water ouzel, dipper, Confidence: 0.000166893%
+Class: black stork, Ciconia nigra, Confidence: 0.000166893%
+Class: grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus, Confidence: 0.00016093254%
+Class: tree frog, tree-frog, Confidence: 0.00016093254%
+Class: hummingbird, Confidence: 0.00015497208%
+Class: white stork, Ciconia ciconia, Confidence: 0.00015497208%
+Class: gazelle, Confidence: 0.00015497208%
+Class: four-poster, Confidence: 0.00014901161%
+Class: common newt, Triturus vulgaris, Confidence: 0.00014901161%
+Class: bulbul, Confidence: 0.00014901161%
+Class: anemone fish, Confidence: 0.00014901161%
+Class: fly, Confidence: 0.00013709068%
+Class: box turtle, box tortoise, Confidence: 0.00013113022%
+Class: lycaenid, lycaenid butterfly, Confidence: 0.00013113022%
+Class: coral fungus, Confidence: 0.00012516975%
+Class: mosquito net, Confidence: 0.00011920929%
+Class: jacamar, Confidence: 0.00011920929%
+Class: cicada, cicala, Confidence: 0.000113248825%
+Class: tile roof, Confidence: 0.00010728836%
+Class: cricket, Confidence: 0.000101327896%
+Class: weevil, Confidence: 9.536743e-05%
+Class: African chameleon, Chamaeleo chamaeleon, Confidence: 9.536743e-05%
+Class: china cabinet, china closet, Confidence: 8.940697e-05%
+Class: ringlet, ringlet butterfly, Confidence: 8.940697e-05%
+Class: spoonbill, Confidence: 8.940697e-05%
+Class: sulphur butterfly, sulfur butterfly, Confidence: 8.940697e-05%
+Class: admiral, Confidence: 8.940697e-05%
+Class: leafhopper, Confidence: 8.34465e-05%
+Class: lion, king of beasts, Panthera leo, Confidence: 8.34465e-05%
+Class: agama, Confidence: 7.748604e-05%
+Class: ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle, Confidence: 6.556511e-05%
+Class: pillow, Confidence: 5.9604645e-05%
+Class: bee eater, Confidence: 5.364418e-05%
+Class: dhole, Cuon alpinus, Confidence: 5.364418e-05%
+Class: leaf beetle, chrysomelid, Confidence: 3.5762787e-05%
+Class: chiffonier, commode, Confidence: 3.5762787e-05%
