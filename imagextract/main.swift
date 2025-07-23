@@ -105,24 +105,46 @@ func performOCR(on cgImage: CGImage, saveTo subdirPath: URL) {
         }
         
         if !recognizedText.isEmpty {
+            print("[INFO] Text recognized: \(recognizedText)")
             saveRecognizedText(recognizedText, to: subdirPath)
         }
     }
+
+    ocrRequest.recognitionLevel = .accurate 
+    //ocrRequest.recognitionLanguages = ["en"]
+    ocrRequest.usesLanguageCorrection = true 
     
     let handler = VNImageRequestHandler(cgImage: cgImage, options: [:])
     try? handler.perform([ocrRequest])
 }
 
 
+func createRESNETImageClassifier() -> VNCoreMLModel? {
+
+    let modelURL = URL(fileURLWithPath: "Resnet50.mlmodelc")
+    guard let model = try? MLModel(contentsOf: modelURL) else {
+    fatalError("Could not load the model.")
+    }
+
+    do {
+        let visionModel = try VNCoreMLModel(for: model)
+        return visionModel
+    } catch {
+        print("[ERROR] Failed to load the model: \(error.localizedDescription)")
+        return nil
+    }
+}
+
 // Function to perform object classification using a RESNET Core ML model
 func performRESNETObjectClassification(on cgImage: CGImage, saveTo subdirPath: URL) {
     do {
-        guard let model = try? VNCoreMLModel(for: Resnet50(configuration: .init()).model) else {
-            print("[ERROR] Error loading Core ML model")
-            return
-        }
 
-        let classificationRequest = VNCoreMLRequest(model: model) { request, error in
+        guard let visionModel = createRESNETImageClassifier() else {
+        print("[ERROR] Vision model could not be created.")
+        return
+    }
+
+        let classificationRequest = VNCoreMLRequest(model: visionModel) { request, error in
             if let error = error {
                 print("[ERROR] Error classifying objects: \(error)")
                 return
@@ -149,7 +171,7 @@ func performRESNETObjectClassification(on cgImage: CGImage, saveTo subdirPath: U
 }
 
 
-// Function to save object classification results to a file
+//Function to save object classification results to a file
 func saveRESNETClassificationResults(_ results: String, to directory: URL) {
     let fileName = "RESNET_ObjectClassificationResults.txt"
     let filePath = directory.appendingPathComponent(fileName)
@@ -161,16 +183,33 @@ func saveRESNETClassificationResults(_ results: String, to directory: URL) {
     }
 }
 
+func createYOLOImageClassifier() -> VNCoreMLModel? {
+    
+    let modelURL = URL(fileURLWithPath: "yolov5m.mlmodelc")
+    guard let model = try? MLModel(contentsOf: modelURL) else {
+    fatalError("Could not load the model.")
+    }
+
+    do {
+        let visionModel = try VNCoreMLModel(for: model)
+        return visionModel
+    } catch {
+        print("[ERROR] Failed to load the model: \(error.localizedDescription)")
+        return nil
+    }
+}
+
 
 // Function to perform object classification using a YOLO Core ML model
 func performYOLOObjectClassification(on cgImage: CGImage, saveTo subdirPath: URL) {
     do {
-        guard let model = try? VNCoreMLModel(for: yolov5m(configuration: .init()).model) else {
-            print("[ERROR] Error loading Core ML model")
-            return
+
+        guard let visionModel = createYOLOImageClassifier() else {
+        print("[ERROR] Vision model could not be created.")
+        return
         }
 
-        let classificationRequest = VNCoreMLRequest(model: model) { request, error in
+        let classificationRequest = VNCoreMLRequest(model: visionModel) { request, error in
             if let error = error {
                 print("[ERROR] Error performing object detection: \(error)")
                 return
@@ -276,7 +315,6 @@ func cropYOLOImage(cgImage: CGImage, toRect rect: CGRect) -> CGImage? {
 func saveYOLOObjectScreenshot(_ croppedImage: CGImage, objectCount: inout Int, to directory: URL) {
     
     let fileName = "Object\(objectCount).png"
-    
     let croppedNSImage = NSImage(cgImage: croppedImage, size: CGSize(width: CGFloat(croppedImage.width), height: CGFloat(croppedImage.height)))
     
     saveImageToSubdir(croppedNSImage, to: directory, with: fileName)
@@ -337,7 +375,6 @@ func saveCroppedFace(_ faceImage: NSImage, count: inout Int, to directory: URL) 
     let fileName = "Face\(count).png"
     
     saveImageToSubdir(faceImage, to: directory, with: fileName)
-    
     count += 1
 }
 
