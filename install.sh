@@ -87,7 +87,7 @@ curl --fail --location --progress-bar --output "$exe.zip" "$download_uri" ||
 unzip -oqd "$bin_dir" "$exe.zip" ||
     error 'Failed to extract imagextract'
 
-mv "$bin_dir/imagextract" "$exe" ||
+mv "$bin_dir/imagextract/imagextract" "$exe" ||
     error 'Failed to move extracted imagextract to destination'
 
 chmod +x "$exe" ||
