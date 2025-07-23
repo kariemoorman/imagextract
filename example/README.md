@@ -10,7 +10,7 @@
 
 ---
 
-## Input
+## Input Image File
 
 <img src="screenshot.png" alt="Twitch Screenshot" />
 
