@@ -1,6 +1,6 @@
 
 #!/usr/bin/env bash
-# Script adapted from Bun and Textra for use with ImagExtract: https://bun.sh/install
+# Script adapted from Bun for use with imagextract: https://bun.sh/install
 set -euo pipefail
 
 
@@ -103,7 +103,7 @@ tildify() {
     fi
 }
 
-success "ImagExtract was installed successfully to $Bold_Green$(tildify "$exe")"
+success "imagextract was installed successfully to $Bold_Green$(tildify "$exe")"
 
 if command -v imagextract >/dev/null; then
     echo "Run 'imagextract' to get started"
