@@ -118,13 +118,14 @@ func performOCR(on cgImage: CGImage, saveTo subdirPath: URL) {
 }
 
 
-func createRESNETImageClassifier() -> VNCoreMLModel? {
+// Function to load ML model for object detection task
+func createImageClassifier(modelpath: String) -> VNCoreMLModel? {
     let executableURL = resolveExecutablePath()
     let executableDir = executableURL.deletingLastPathComponent()
-    let modelURL = executableDir.appendingPathComponent("models/Resnet50.mlmodelc")
+    let modelURL = executableDir.appendingPathComponent(modelpath)
 
     guard let model = try? MLModel(contentsOf: modelURL) else {
-    fatalError("Could not load the model.")
+    fatalError("[ERROR] Could not load the model. Please verify model path and retry.")
     }
 
     do {
@@ -136,11 +137,11 @@ func createRESNETImageClassifier() -> VNCoreMLModel? {
     }
 }
 
+
 // Function to perform object classification using a RESNET Core ML model
 func performRESNETObjectClassification(on cgImage: CGImage, saveTo subdirPath: URL) {
     do {
-
-        guard let visionModel = createRESNETImageClassifier() else {
+        guard let visionModel = createImageClassifier(modelpath: "models/Resnet50.mlmodelc") else {
         print("[ERROR] Vision model could not be created.")
         return
     }
@@ -176,7 +177,6 @@ func performRESNETObjectClassification(on cgImage: CGImage, saveTo subdirPath: U
 func saveRESNETClassificationResults(_ results: String, to directory: URL) {
     let fileName = "RESNET_ObjectClassificationResults.txt"
     let filePath = directory.appendingPathComponent(fileName)
-    
     do {
         try results.write(to: filePath, atomically: true, encoding: .utf8)
     } catch {
@@ -184,30 +184,11 @@ func saveRESNETClassificationResults(_ results: String, to directory: URL) {
     }
 }
 
-func createYOLOImageClassifier() -> VNCoreMLModel? {
-    let executableURL = resolveExecutablePath()
-    let executableDir = executableURL.deletingLastPathComponent()
-    let modelURL = executableDir.appendingPathComponent("models/yolov5m.mlmodelc")
-
-    guard let model = try? MLModel(contentsOf: modelURL) else {
-    fatalError("Could not load the model.")
-    }
-
-    do {
-        let visionModel = try VNCoreMLModel(for: model)
-        return visionModel
-    } catch {
-        print("[ERROR] Failed to load the model: \(error.localizedDescription)")
-        return nil
-    }
-}
-
 
 // Function to perform object classification using a YOLO Core ML model
 func performYOLOObjectClassification(on cgImage: CGImage, saveTo subdirPath: URL) {
     do {
-
-        guard let visionModel = createYOLOImageClassifier() else {
+        guard let visionModel = createImageClassifier(modelpath: "models/yolov5m.mlmodelc") else {
         print("[ERROR] Vision model could not be created.")
         return
         }
